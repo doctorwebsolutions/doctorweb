@@ -110,7 +110,7 @@
 
 .wrapper header.header .header-carousal .item h2 {
     color: #fff;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 40px;
     font-weight: 800;
     margin-bottom: 20px;
@@ -143,7 +143,7 @@
 
 .wrapper section>h2 {
     color: #3b3b3b;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 40px;
     font-weight: 800;
     margin-bottom: 0;
@@ -195,7 +195,7 @@
 
 .wrapper section.about-us .text>h3 {
     color: #4d4d4d;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 17px;
     font-weight: 900;
     margin-bottom: 12px;
@@ -277,7 +277,7 @@
 
 .wrapper section.service .text h4 {
     color: #0f0f0f;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 24px;
     font-weight: 500;
     margin-bottom: 25px;
@@ -375,7 +375,7 @@
 
 .wrapper section.portfolio .portfolio-item>h3 {
     color: #000;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 16px;
     font-weight: 400;
     margin-bottom: 5px;
@@ -387,7 +387,7 @@
     font-size: 13px;
     font-weight: 400;
     color: #000;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 
 .wrapper section.portfolio .portfolio-item:hover>.portfolio-text {
@@ -498,7 +498,7 @@
 .wrapper section.testimonial .testimonial-carousal-one .item>h4 {
     font-size: 19px;
     font-weight: 500;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     color: #7c2dfe;
 }
 
@@ -610,7 +610,7 @@
 
 .hexagon1 h3 {
     color: #3c3c3c;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 21px;
     font-weight: 400;
     margin: 128px 0 0;
@@ -658,8 +658,8 @@
 
 .hexagon::before,
 .hexagon::after {
-    border-left: 150px solid #fff;
-    border-right: 150px solid #fff;
+    border-left: 150px solid blue;
+    border-right: 150px solid blue;
     content: "";
     position: absolute;
     top: -87px;
@@ -687,8 +687,8 @@
 }
 
 .wrapper section.our-team .description>h3 {
-    color: #fff;
-    font-family: "Raleway", sans-serif;
+    color: blue;
+    font-family: 'Anton', sans-serif;
     font-size: 27px;
     font-weight: 500;
     margin: 0;
@@ -701,12 +701,12 @@
 .wrapper section.our-team .description>h4 {
     font-size: 22px;
     font-weight: 400;
-    font-family: "Raleway", sans-serif;
-    color: #fff
+    font-family: 'Anton', sans-serif;
+    color: aqua;
 }
 
 .wrapper section.our-team .description>h5 {
-    color: #f6f6f6;
+    color: aquamarine;
     font-family: 'Calistoga', cursive;
     font-size: 16px;
     font-weight: 400;
@@ -715,7 +715,7 @@
 
 .wrapper section.our-team .description>p i {
     font-size: 21px;
-    color: #f6f6f6;
+    color: aquamarine;
     width: 55px;
     padding: 15px 0;
     text-align: center;
@@ -724,7 +724,7 @@
 }
 
 .wrapper section.our-team .description p i:hover {
-    background: #fff;
+    background: peru;
     color: #7c2dfe;
 }
 
@@ -779,7 +779,7 @@
 
 .wrapper section.our-blog .item .text h4 {
     color: #d858f0;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 22px;
     font-weight: 500;
     margin: 0;
@@ -914,7 +914,7 @@
 
 .wrapper section.contact-area .contact-part h4 {
     color: #3b3b3b;
-    font-family: "Raleway", sans-serif;
+    font-family: 'Anton', sans-serif;
     font-size: 21px;
     font-weight: 600;
     margin-bottom: 20px;
