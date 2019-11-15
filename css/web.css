@@ -23,7 +23,7 @@
     text-align: center;
     padding: 12px;
     text-decoration: none;
-    font-size: 18px; 
+    font-size: 22px; 
     line-height: 25px;
     border-radius: 4px;
     
@@ -31,7 +31,7 @@
 
 .wrapper header.header .header-top ul.nav.navbar-nav {
     margin-top: 30px;
-    float: right;
+    float: none;
 }
 
 .wrapper header.header .header-top ul.nav.navbar-nav li a {
