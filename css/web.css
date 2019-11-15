@@ -2,7 +2,7 @@
     background-image: url("https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1057&q=80");
     background-repeat: no-repeat;
     background-size: 100% auto;
-    height: 950px;
+    height: 100% auto;
     position: relative;
 }
 
@@ -21,7 +21,7 @@
     font-size: 44px;
     font-weight: 400;
     text-decoration: none;
-    color: #fff;
+    color: red;
 }
 
 .wrapper header.header .header-top ul.nav.navbar-nav {
