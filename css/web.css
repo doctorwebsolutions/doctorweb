@@ -25,8 +25,7 @@
 }
 
 .wrapper header.header .header-top ul.nav.navbar-nav {
-    float: left;
-    margin-top: 30px;
+      margin-top: 30px;
 }
 
 .wrapper header.header .header-top ul.nav.navbar-nav li a {
@@ -34,7 +33,7 @@
     font-family: 'Calistoga', cursive;
     font-size: 17px;
     font-weight: 400;
-    margin-right: 10px;
+    
 }
 
 .wrapper header.header .header-top ul.nav.navbar-nav li a:hover {
@@ -44,7 +43,7 @@
 
 .wrapper header.header .header-carousal {
     margin-top: 295px;
-    position: relative
+    position: relative;
 }
 
 .wrapper header.header .header-carousal .item {
