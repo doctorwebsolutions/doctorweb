@@ -6,14 +6,14 @@
     color: white;
 }
 
-p {
+.heading-page p {
     margin-bottom: 20px;
 }
 
-p:last-child {
+.heading-page p:last-child {
     margin-bottom: 0;
 }
-.pt-table {
+.heading-page .pt-table {
     display: table;
     width: 100%;
     height: -webkit-calc(100vh - 4px);
@@ -21,12 +21,12 @@ p:last-child {
     height: calc(100vh - 4px);
 }
 
-.pt-tablecell {
+.heading-page.pt-tablecell {
     display: table-cell;
     vertical-align: middle;
 }
 
-.overlay {
+.heading-page .overlay {
     position: absolute;
     left: 0;
     top: 0;
@@ -34,29 +34,24 @@ p:last-child {
     height: 100%;
 }
 
-.relative {
+.heading-page .relative {
     position: relative;
 }
 
-.primary,
+.heading-page.primary,
 .link:hover {
     color: #FA6862;
 }
 
-.no-gutter {
+.heading-page .no-gutter {
     margin-left: 0;
     margin-right: 0;
 }
 
-.no-gutter>[class^="col-"] {
+.heading-page .no-gutter>[class^="col-"] {
     padding-left: 0;
     padding-right: 0;
 }
-
-
-/*------------------------------------------------
-      Start Styling
-  -------------------------------------------------*/
 
 .mt20 {
     margin-top: 20px;
