@@ -31,7 +31,7 @@
 
 .wrapper header.header .header-top ul.nav.navbar-nav li a {
     color: #fff;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 17px;
     font-weight: 400;
     margin-right: 10px;
@@ -118,7 +118,7 @@
 
 .wrapper header.header .header-carousal .item p {
     color: #fff;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 17px;
     font-weight: 400;
     line-height: 30px;
@@ -128,7 +128,7 @@
     color: #403e3e;
     font-size: 17px;
     font-weight: 600;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     background: #fff;
     border: none;
     padding: 20px 40px;
@@ -186,7 +186,7 @@
 
 .wrapper section.about-us .text>h4 {
     color: #121212;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 18px;
     font-weight: 400;
     line-height: 32px;
@@ -204,7 +204,7 @@
 
 .wrapper section.about-us .text>p {
     color: #b0aeae;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 16px;
     font-weight: 600;
     line-height: 26px;
@@ -215,7 +215,7 @@
     background: #fff none repeat scroll 0 0;
     border: 1px solid #853bfe;
     color: #853bfe;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 17px;
     font-weight: 400;
     padding: 12px 40px;
@@ -287,14 +287,14 @@
 
 .wrapper section.service .text p {
     color: #7a7a7a;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 15px;
     font-weight: 400;
     margin-bottom: 45px;
 }
 
 .wrapper section.service .text h5 a {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 15px;
     font-weight: 400;
     color: #853bfe;
@@ -320,7 +320,7 @@
 .wrapper section.portfolio .button-group button.button {
     border: medium none;
     color: #3f3f3f;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 18px;
     font-weight: 400;
     margin-right: 8px;
@@ -504,7 +504,7 @@
 
 .wrapper section.testimonial .testimonial-carousal-one .item>h5 {
     color: #656565;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 15px;
     font-weight: 400;
     line-height: 25px;
@@ -621,7 +621,7 @@
 .hexagon1 p {
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     color: #5b5959;
     text-align: center;
     opacity: 0
@@ -707,7 +707,7 @@
 
 .wrapper section.our-team .description>h5 {
     color: #f6f6f6;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 16px;
     font-weight: 400;
     line-height: 27px;
@@ -789,7 +789,7 @@
 .wrapper section.our-blog .item .text h5 {
     border-bottom: 1px solid #797878;
     color: #797878;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 16px;
     font-weight: 400;
     line-height: 25px;
@@ -799,7 +799,7 @@
 
 .wrapper section.our-blog .item .text p {
     color: #5e5c5c;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 17px;
     font-weight: 400;
     margin-bottom: 60px;
@@ -814,7 +814,7 @@
 .wrapper section.our-blog .item .text h6 a {
     background: #7c2dfe none repeat scroll 0 0;
     color: #fff;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 16px;
     font-weight: 400;
     padding: 15px 50px;
@@ -883,21 +883,21 @@
     width: 100%;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
 }
 
 .wrapper section.contact-area .contact-form input[type="email"] {
     width: 100%;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
 }
 
 .wrapper section.contact-area .contact-form textarea {
     width: 100%;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     height: 130px
 }
 
@@ -907,7 +907,7 @@
     color: #fff;
     background: #e355fd;
     font-weight: 400;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     border: none;
     margin-top: 40px;
 }
@@ -930,7 +930,7 @@
 
 .wrapper section.contact-area .contact-part p {
     color: #837d7d;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 16px;
     font-weight: 400;
     line-height: 15px;
@@ -953,7 +953,7 @@
 
 .wrapper footer.footer .text p {
     color: #fff;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Calistoga', cursive;
     font-size: 14px;
     font-weight: 400;
     margin-top: 170px;
