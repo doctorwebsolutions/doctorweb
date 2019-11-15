@@ -582,7 +582,6 @@
 .clear {
     clear: both;
 }
-
 .wrapper section.our-team .about-icon {
     margin: 0 auto 105px;
     position: relative;
@@ -616,7 +615,7 @@
 
 .hexagon1 h3 {
     color: #3c3c3c;
-    font-family: 'Anton', sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 21px;
     font-weight: 400;
     margin: 128px 0 0;
@@ -627,7 +626,7 @@
 .hexagon1 p {
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Calistoga', cursive;
+    font-family: "Open Sans", sans-serif;
     color: #5b5959;
     text-align: center;
     opacity: 0
@@ -664,8 +663,8 @@
 
 .hexagon::before,
 .hexagon::after {
-    border-left: 150px solid blue;
-    border-right: 150px solid blue;
+    border-left: 150px solid #fff;
+    border-right: 150px solid #fff;
     content: "";
     position: absolute;
     top: -87px;
@@ -693,8 +692,8 @@
 }
 
 .wrapper section.our-team .description>h3 {
-    color: blue;
-    font-family: 'Anton', sans-serif;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
     font-size: 27px;
     font-weight: 500;
     margin: 0;
@@ -707,13 +706,13 @@
 .wrapper section.our-team .description>h4 {
     font-size: 22px;
     font-weight: 400;
-    font-family: 'Anton', sans-serif;
-    color: aqua;
+    font-family: "Raleway", sans-serif;
+    color: #fff
 }
 
 .wrapper section.our-team .description>h5 {
-    color: aquamarine;
-    font-family: 'Calistoga', cursive;
+    color: #f6f6f6;
+    font-family: "Open Sans", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 27px;
@@ -721,7 +720,7 @@
 
 .wrapper section.our-team .description>p i {
     font-size: 21px;
-    color: aquamarine;
+    color: #f6f6f6;
     width: 55px;
     padding: 15px 0;
     text-align: center;
@@ -730,7 +729,7 @@
 }
 
 .wrapper section.our-team .description p i:hover {
-    background: peru;
+    background: #fff;
     color: #7c2dfe;
 }
 
