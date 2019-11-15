@@ -1,2 +1,5 @@
 baseurl: /doctorweb
 permalink: pretty
+theme: minima
+plugins:
+  - jekyll-feed
