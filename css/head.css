@@ -13,22 +13,6 @@ p {
 p:last-child {
     margin-bottom: 0;
 }
-
-
-/*
-   *  CSS Helper Class
-   */
-
-.clear:before,
-.clear:after {
-    content: " ";
-    display: table;
-}
-
-.clear:after {
-    clear: both;
-}
-
 .pt-table {
     display: table;
     width: 100%;
