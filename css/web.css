@@ -31,7 +31,8 @@
 
 .wrapper header.header .header-top ul.nav.navbar-nav {
     margin-top: 30px;
-    float: right;
+    clear: both;
+    position: relative;
 }
 
 .wrapper header.header .header-top ul.nav.navbar-nav li a {
