@@ -36,8 +36,6 @@
 .wrapper header.header .header-top ul.nav.navbar-nav {
     margin-top: 30px;
     float: right;
-    clear: both;
-    position: relative;
 }
 
 .wrapper header.header .header-top ul.nav.navbar-nav li a {
@@ -45,7 +43,7 @@
     font-family: 'Calistoga', cursive;
     font-size: 17px;
     font-weight: 400;
-    position:initial;
+    float: right;
     
 }
 
