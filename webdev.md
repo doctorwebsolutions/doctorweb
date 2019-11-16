@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Web Development
 
 Doctorweb Solutions, the other name for innovation and creativity is your one-stop site for different web development solutions and tasks in the Gurgaon sector. Want to have a solution for the problem related to your website, call us immediately or come on over for a cup of coffee and take away some amazing solutions that will definitely be a help.
